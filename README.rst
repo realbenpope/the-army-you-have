@@ -1,9 +1,3 @@
-Template for the Read the Docs tutorial
+“You go to war with the army you have, not the army you might want or wish to have at a later time.”
+--Donald Rumsfeld
 =======================================
-
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
